@@ -22,7 +22,7 @@ $ chmod +x ip-informer.py
 
 $ python3 ip-informer.py 
 
-$ python3 ip-informer.py -v <Target IP Address>
+$ python3 ip-informer.py -v (Target IP Address)
 
 # Screenshots
 
