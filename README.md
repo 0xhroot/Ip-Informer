@@ -20,13 +20,11 @@ $ ./install.sh
 
 $ chmod +x ip-informer.py
 
-python3 ip-informer.py 
+$ python3 ip-informer.py 
 
-# Usage
+$ python3 ip-informer.py -v <Target IP Address>
 
-there is only one option target
-
-python3 ip-informer.py -v < Target IP Address >
+# Screenshots
 
 ![ipinformer](https://user-images.githubusercontent.com/91869614/189964152-d208c116-4d2c-4369-b420-e033ae976a60.png)
 
