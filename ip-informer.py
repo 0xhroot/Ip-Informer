@@ -31,12 +31,12 @@ _,88,,I8 _  ,d8'_,88,,dP   8I   Yb,d8b,_,d8,   ,d8'
       I8                           I8   8I           
       I8                           I8, ,8'           
       I8                            "Y8P' [ version 1.0]
-                                          [ by white_hacker.official ] 
+                                          [ by hacker_ss8 ] 
 
 # Ip-Informer
 # Version     : 1.0
 # Description : this tool gives the ip adress information.
-# Author      : white_devil & Rani Joshi
+# Author      : hacker_ss8 & Rani Joshi
 # instagram   : https://www.instagram.com/white_hacker.official/
 # language    : python
 # Country     : IN           
